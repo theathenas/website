@@ -1,11 +1,7 @@
----
-layout: page
----
-
 
 # Welcome to The Athenas
 
-![](img/)
+![Athena](athena.jpg)
 
 
 Join our Slack network.
