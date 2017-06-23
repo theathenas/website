@@ -4,6 +4,6 @@
 ![Athena](athena.jpg)
 
 
-Join our Slack network.
+If you are interested in joining our Slack network, email Beth at postacathenas@gmail.com.
 
-Follow our Code of Conduct.
+Our Code of Conduct is here. 
